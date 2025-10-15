@@ -54,10 +54,10 @@
     "prettier-plugin-sort-json": "4.1.1",
     "prettier-plugin-tailwindcss": "0.7.2",
     "syncpack": "13.0.4",
-    "wrangler": "^4.43.0",
     "typescript-eslint": "8.46.2",
     "tailwindcss": "4.1.18",
-    "typescript": "5.9.3"
+    "typescript": "5.9.3",
+    "wrangler": "^4.43.0"
   },
   "homepage": "https://github.com/colinhemphill/nextjs-resume",
   "keywords": [
@@ -94,3 +94,4 @@
   },
   "type": "module"
 }
+
