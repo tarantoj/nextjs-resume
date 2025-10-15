@@ -1,8 +1,8 @@
 ---
-givenName: Stacy
-familyName: Fakename
-title: Editor
-location: Cortex City, Mentopolis
+givenName: James
+familyName: Taranto
+title: Senior Software Engineer
+location: Barcelona, Spain
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra [justo nec ultrices](#). Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra.
+I am very lazy and somewhat proficient in delivering software. I like to maximise correct output with minimum effort, by improving the developer experience.

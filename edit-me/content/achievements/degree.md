@@ -1,5 +1,5 @@
 ---
-achievement: Bachelor of Science, Journalism
+achievement: Bachelor of Science, Computer Science
 organization: Mentopolis University
 completionYear: 2016
 ---

@@ -2,6 +2,6 @@
 title: Hobbies & Interests
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra.
+Being an Australian in Spain, travel is a big passion for me. I love to experience new places and get to know the culture, food and people of the world.
 
-All Markdown files will be rendered as rich text, so you can include features such as [links](#).
+Also a massive nerd when it comes to tech and software, I self host increasingly complex software stacks for fun and personal gain.
