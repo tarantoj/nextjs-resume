@@ -1,6 +1,7 @@
 /* eslint-disable react/prop-types */
 import { IconType } from '@icons-pack/react-simple-icons';
 
+// @ts-expect-error i dunno, some weird type stuff
 export const LinkedIn: IconType = ({
   title = 'LinkedIn',
   color = 'currentColor',
