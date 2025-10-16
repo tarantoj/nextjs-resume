@@ -5,4 +5,5 @@ title: Senior Software Engineer
 location: Barcelona, Spain
 ---
 
-I am very lazy and somewhat proficient in delivering software. I like to maximise correct output with minimum effort, by improving the developer experience.
+Open source contributor and NixOS enthusiast.
+Keen eye for detail and passionate about optimising the developer experience to achieve business objectives with a minimum of friction and effort.
